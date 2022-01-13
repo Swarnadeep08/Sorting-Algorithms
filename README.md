@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-#bubble_sort.c
+Bubble\Selection\Insertion\Merge
