@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-Bubble\Selection\Insertion\Merge
+Bubble\ Selection\ Insertion\ Merge
